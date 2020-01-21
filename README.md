@@ -10,3 +10,4 @@ This is an advanced computational course designed to introduce students to data 
 2. Develop a working knowledge of existing ocean and earth science databases and how to efficiently access data from them.
 3. Students will develop their own data analysis toolbox using, but not limited to, python and shell scripts.  
 4. Understand and use version control (e.g. git) to manage and share code.
+5. Understand the underlying principles of machine learning techniques and apply them to a targeted research question.
