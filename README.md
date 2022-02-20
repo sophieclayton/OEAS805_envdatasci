@@ -1,5 +1,4 @@
-# ODU Ocean Data
-## OEAS895: Advanced Data Science Techniques in Ocean and Earth Sciences.
+# OEAS805: Advanced Data Science Techniques in Environmental Sciences.
 
 Oceanography is quickly moving from being a data-poor to a data-rich discipline. 
 
