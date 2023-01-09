@@ -12,7 +12,7 @@ This is an advanced computational analysis course designed to introduce students
 
 The class will meet two days a week, Tuesday and Thursday. Classes will consist of a combination of lectures, discussions and practical coding exercises where collaboration and teamwork will be encouraged. The outcome of the course will be an individual capstone project where each student applies the techniques learned during the course to undertake a data analysis project based on their own research interests using at least 2 different data sources from open scientific databases, and may include data that they have generated themselves. Students will be expected to publish the code developed and results of their project in a public GitHub repository. 
 
-The course schedule can be found [here](https://github.com/sophieclayton/OEAS805_data_science/blob/master/OEAS895_AdvData_schedule.pdf), and the full course syllabus can be dowbloaded from [here].
+The course schedule can be found [here](https://github.com/sophieclayton/OEAS805_data_science/blob/master/OEAS895_AdvData_schedule.pdf), and the full course syllabus can be dowbloaded from [here](https://github.com/sophieclayton/OEAS805_data_science/blob/master/OEAS895_AdvData_schedule.pdf).
 
 ## Learning objectives
 1. Understand FAIR data principles and how to apply them when generating, sharing and accessing data.
