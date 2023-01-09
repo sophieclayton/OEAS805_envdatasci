@@ -23,5 +23,5 @@ The course schedule can be found [here](https://github.com/sophieclayton/OEAS805
 6. Understand the process of model evaluation and optimization and commonly used metrics for reporting model performance. 
 
 ## Capstone Project
-The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focused on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor prior to spring break. 
+The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focused on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor prior by spring break. 
 
