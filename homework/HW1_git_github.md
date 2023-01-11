@@ -10,7 +10,7 @@
 7. Save a screenshot of your terminal showing your commands and the terminal outputs as 'HW1_terminal.png', save it to your HW1 directory, add and commit it to your repository.
 
 # Part 2: Push your local repository to your GitHub account
-For this part of the homework, you might find the information in [this tutorial about setting up remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories) and this tutorial about working with remote [repositores](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository) helpful.
+For this part of the homework, you might find the information in [this tutorial about setting up remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories) and [this tutorial about working with remote repositores](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository) helpful.
 
 1. Create an empty repository in your GitHub account called 'OEAS895'. Make sure that you initiate a completely empty repository.
 2. In your local folder, set your new GitHub repository as the remote for your project.
