@@ -4,6 +4,7 @@
 Dr Sophie Clayton, [sclayton@odu.edu](mailto:sclayton@odu.edu)   
 Office hours:  13:00 - 15:00 M, OCNPS 423  
 Class times: 9:30 - 10:45 T/Th, OCNPS 403  
+[Link to syllabus](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/OEAS895_AdvData_syllabus_Sp23.pdf)
 Students will require a laptop, all computational tools used in the course are available for free.
 
 ## Course description
@@ -13,7 +14,18 @@ This is an advanced computational analysis course designed to introduce students
 
 The class will meet two days a week, Tuesday and Thursday. Classes will consist of a combination of lectures, discussions and practical coding exercises where collaboration and teamwork will be encouraged. The outcome of the course will be an individual capstone project where each student applies the techniques learned during the course to undertake a data analysis project based on their own research interests using at least 2 different data sources from open scientific databases, and may include data that they have generated themselves. Students will be expected to publish the code developed and results of their project in a public GitHub repository. 
 
-The course schedule can be found [here](https://github.com/sophieclayton/OEAS805_data_science/blob/master/OEAS895_AdvData_schedule.pdf), and the full course syllabus can be downloaded from [here](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/OEAS895_AdvData_syllabus_Sp23.pdf).
+## Course schedule with links to notes
+A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS805_data_science/blob/master/OEAS895_AdvData_schedule.pdf)
+
+| Week | Topic | Notes and code| Homework |  
+|------|-------| ----------| --- |
+| 1 | Open Science and FAIR data | [Lecture slides](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/slides/OEAS895_intro_fairdata.pdf) |  | |
+|  | Version control, git, GitHub | [Version control overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/version_control.md), [Intro to git](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/git_exercise.md) | [HW1](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW1_git_github.md) |
+| 2 | Data science workflow and project organization | [Data science workflow overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_project_setup.md), [Project organization](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/project_organization.md) | |
+| | Exploratory Data Analysis | EDA with pandas jupyter notebook | |
+| 3 | Plotting with seaborn and cartopy |  | HW2 |
+|  | Environmental databases|  |  |
+
 
 ## Learning objectives
 1. Understand FAIR data principles and how to apply them when generating, sharing and accessing data.
