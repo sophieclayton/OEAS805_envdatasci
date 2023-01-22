@@ -15,19 +15,26 @@ This is an advanced computational analysis course designed to introduce students
 The class will meet two days a week, Tuesday and Thursday. Classes will consist of a combination of lectures, discussions and practical coding exercises where collaboration and teamwork will be encouraged. The outcome of the course will be an individual capstone project where each student applies the techniques learned during the course to undertake a data analysis project based on their own research interests using at least 2 different data sources from open scientific databases, and may include data that they have generated themselves. Students will be expected to publish the code developed and results of their project in a public GitHub repository. 
 
 ## Course schedule with links to notes
-A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS805_data_science/blob/master/OEAS895_AdvData_schedule.pdf)
+A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS805_data_science/blob/master/OEAS895_AdvData_schedule.pdf) 
 
 | Week | Topic | Notes and code| Homework |  
 |------|-------| ----------| --- |
 | 1 | Open Science and FAIR data | [Lecture slides](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/slides/OEAS895_intro_fairdata.pdf) |  | |
-|  | Version control, git, GitHub | [Version control overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/version_control.md), [Intro to git](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/git_exercise.md) | [HW1](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW1_git_github.md) |
+|  | Version control, git, GitHub | [Version control overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/version_control.md), [Intro to git](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/git_exercise.md) | [HW1](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW1_git_github.md) (due January 25<sup>th</sup> 5pm) |
 | 2 | Data science workflow and project organization | [Data science workflow overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_project_setup.md), [Project organization](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/project_organization.md) | |
 | | Intro to environments, Exploratory Data Analysis | conda notes, [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf), EDA with pandas jupyter notebook | |
-| 3 | Plotting with seaborn, mapping with cartopy |  | HW2 |
-|  | Environmental databases|  | List of databases,  |  |
-| 4 | NO CLASSES | | |
-| 5 | 
+| 3 | Plotting with seaborn, mapping with cartopy |  | HW2 (due February 3<sup>rd</sup> 5pm) |
+|  | Environmental databases and toolboxes|  List of databases, ocean toolboxes  |  |
+| 4 |  | NO CLASSES | |
+| 5 | Machine learning overview | | |
+|  | Intro to [scikit-learn](https://scikit-learn.org/stable/) and [TensorFlow](https://www.tensorflow.org/) | |  |
 
+<!---
+| 6 | Supervised learning - regression | |  |
+| 7 | Unsupervised learning - classification | | |
+| 8 | Unsupervised learning | | |
+| 9 | SPRING BREAK | NO CLASSES | |
+--->
 
 ## Learning objectives
 1. Understand FAIR data principles and how to apply them when generating, sharing and accessing data.
