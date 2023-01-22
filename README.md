@@ -22,9 +22,11 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 1 | Open Science and FAIR data | [Lecture slides](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/slides/OEAS895_intro_fairdata.pdf) |  | |
 |  | Version control, git, GitHub | [Version control overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/version_control.md), [Intro to git](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/git_exercise.md) | [HW1](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW1_git_github.md) |
 | 2 | Data science workflow and project organization | [Data science workflow overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_project_setup.md), [Project organization](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/project_organization.md) | |
-| | Exploratory Data Analysis | EDA with pandas jupyter notebook | |
-| 3 | Plotting with seaborn and cartopy |  | HW2 |
-|  | Environmental databases|  |  |
+| | Intro to environments, Exploratory Data Analysis | conda notes, [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf), EDA with pandas jupyter notebook | |
+| 3 | Plotting with seaborn, mapping with cartopy |  | HW2 |
+|  | Environmental databases|  | List of databases,  |  |
+| 4 | NO CLASSES | | |
+| 5 | 
 
 
 ## Learning objectives
@@ -37,4 +39,6 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 
 ## Capstone Project
 The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focuse on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor prior by spring break. 
+
+More detailed information on the capstone project will be posted here.
 
