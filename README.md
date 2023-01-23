@@ -25,7 +25,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 2 | Intro to environments, Exploratory Data Analysis | [conda notes](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/conda_package_manager_overview.md), [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf), EDA with pandas jupyter notebook | |
 | 3 | Plotting with seaborn, mapping with cartopy |  | [HW2](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW2_EDA_envs.md) (due February 3<sup>rd</sup> 5pm) |
 | 3 | Environmental databases and toolboxes|  [List of databases](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_resources.md), ocean toolboxes  |  |
-| 4 |  | NO CLASSES | |
+| 4 | NO CLASSES | -- | -- |
 | 5 | Machine learning overview | | |
 | 5 | Intro to [scikit-learn](https://scikit-learn.org/stable/) and [TensorFlow](https://www.tensorflow.org/) | |  |
 
