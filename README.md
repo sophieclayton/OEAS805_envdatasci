@@ -23,7 +23,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 1 | Version control, git, GitHub | [Version control overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/version_control.md), [Intro to git](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/git_exercise.md) | [HW1](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW1_git_github.md) (due January 25<sup>th</sup> 5pm) |
 | 2 | Data science workflow and project organization | [Data science workflow overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_project_setup.md), [Project organization](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/project_organization.md) | |
 | 2 | Intro to environments, Exploratory Data Analysis | [conda notes](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/conda_package_manager_overview.md), [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf), EDA with pandas jupyter notebook | |
-| 3 | Plotting with seaborn, mapping with cartopy |  | HW2 (due February 3<sup>rd</sup> 5pm) |
+| 3 | Plotting with seaborn, mapping with cartopy |  | [HW2](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW2_EDA_envs.md) (due February 3<sup>rd</sup> 5pm) |
 | 3 | Environmental databases and toolboxes|  [List of databases](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_resources.md), ocean toolboxes  |  |
 | 4 |  | NO CLASSES | |
 | 5 | Machine learning overview | | |
