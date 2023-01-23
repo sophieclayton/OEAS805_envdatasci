@@ -37,11 +37,11 @@ Once you have activated your environment, you will see it in parentheses at the 
 If you'd like to share your environment, then you have a couple of options. You can save it to a `.txt` file. You will need to do this while you are working within the environment!  
 `conda list --explicit > myenv.txt`  
 This will give you a very long list, as it lists each of the packages you added along with their dependencies. 
-Here is an example of a `.txt` file containing the info the `funtimes` environment created in class.
+[Here is an example](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/funtimes.txt) of a `.txt` file containing the info the `funtimes` environment created in class.
 
 You can also share your environment in a `.yml` file, which is a text file in data serialization language, YAML, commonly used for writing configuration files. Again, you will do this while you are workign within the environment you wish to export.
 `conda env export > MYENV.yml`
-Here is an example of a `.yml` file containing the info the `funtimes` environment created in class.
+[Here is an example](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/funtimes.yml) of a `.yml` file containing the info the `funtimes` environment created in class.
 
 Once you have finished your session working in your environment, then you can deactivate it:
 `conda deactivate`
