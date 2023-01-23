@@ -22,9 +22,9 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 1 | Open Science and FAIR data | [Lecture slides](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/slides/OEAS895_intro_fairdata.pdf) |  | |
 |  | Version control, git, GitHub | [Version control overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/version_control.md), [Intro to git](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/git_exercise.md) | [HW1](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW1_git_github.md) (due January 25<sup>th</sup> 5pm) |
 | 2 | Data science workflow and project organization | [Data science workflow overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_project_setup.md), [Project organization](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/project_organization.md) | |
-| | Intro to environments, Exploratory Data Analysis | conda notes, [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf), EDA with pandas jupyter notebook | |
+| | Intro to environments, Exploratory Data Analysis | [conda notes](notes/conda_pacakge_manager_overview.md), [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf), EDA with pandas jupyter notebook | |
 | 3 | Plotting with seaborn, mapping with cartopy |  | HW2 (due February 3<sup>rd</sup> 5pm) |
-|  | Environmental databases and toolboxes|  List of databases, ocean toolboxes  |  |
+|  | Environmental databases and toolboxes|  [List of databases](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_resources.md), ocean toolboxes  |  |
 | 4 |  | NO CLASSES | |
 | 5 | Machine learning overview | | |
 |  | Intro to [scikit-learn](https://scikit-learn.org/stable/) and [TensorFlow](https://www.tensorflow.org/) | |  |

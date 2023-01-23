@@ -48,7 +48,7 @@
 [NASA PO.DAAC (Physical Oceanography Distributed Data Archive Center)]
 (https://podaac.jpl.nasa.gov/)
 
-##Model output:
+##Climate model output:
 [ECCO (Estimating the Circulation and Climate of the Ocean)]
 (https://ecco.jpl.nasa.gov/products/all/)
 
