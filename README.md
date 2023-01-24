@@ -41,7 +41,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 2. Develop a working knowledge of existing ocean and earth science databases and how to efficiently access data from them, including via APIs.
 3. Students will develop their own data analysis toolbox using, but not limited to, Python and shell scripts.  
 4. Understand and use version control (e.g. git), environments (e.g. conda) and code repositories (e.g. GitHub) to manage and share code.
-5. Understand the underlying principles of machine learning techniques for regressison and classification, including supervised and unsupervised learning and apply them to a targeted research question.
+5. Understand the underlying principles of machine learning techniques for regression and classification, including supervised and unsupervised learning and apply them to a targeted research question.
 6. Understand the process of model evaluation and optimization and commonly used metrics for reporting model performance. 
 
 ## Capstone Project
