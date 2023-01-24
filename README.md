@@ -4,7 +4,7 @@
 Dr Sophie Clayton, [sclayton@odu.edu](mailto:sclayton@odu.edu)   
 Office hours:  13:00 - 15:00 M, OCNPS 423  
 Class times: 9:30 - 10:45 T/Th, OCNPS 403  
-[Link to syllabus](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/OEAS895_AdvData_syllabus_Sp23.pdf)
+[Link to syllabus](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/OEAS895_AdvData_syllabus_Sp23.pdf)  
 Students will require a laptop, all computational tools used in the course are available for free.
 
 ## Course description
