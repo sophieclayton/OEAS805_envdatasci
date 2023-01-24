@@ -4,7 +4,7 @@
 Dr Sophie Clayton, [sclayton@odu.edu](mailto:sclayton@odu.edu)   
 Office hours:  13:00 - 15:00 M, OCNPS 423  
 Class times: 9:30 - 10:45 T/Th, OCNPS 403  
-[Link to syllabus](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/OEAS895_AdvData_syllabus_Sp23.pdf)
+[Link to syllabus](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/OEAS895_AdvData_syllabus_Sp23.pdf)  
 Students will require a laptop, all computational tools used in the course are available for free.
 
 ## Course description
@@ -22,9 +22,9 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 1 | Open Science and FAIR data | [Lecture slides](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/slides/OEAS895_intro_fairdata.pdf) |  | |
 | 1 | Version control, git, GitHub | [Version control overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/version_control.md), [Intro to git](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/git_exercise.md) | [HW1](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW1_git_github.md) (due January 25<sup>th</sup> 5pm) |
 | 2 | Data science workflow and project organization | [Data science workflow overview](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_project_setup.md), [Project organization](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/project_organization.md) | |
-| 2 | Intro to environments, Exploratory Data Analysis | [conda notes](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/conda_package_manager_overview.md), [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf), EDA with pandas jupyter notebook | |
-| 3 | Plotting with seaborn, mapping with cartopy |  | [HW2](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW2_EDA_envs.md) (due February 3<sup>rd</sup> 5pm) |
-| 3 | Environmental databases and toolboxes|  [List of databases](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_resources.md), ocean toolboxes  |  |
+| 2 | Intro to environments, Exploratory Data Analysis | [conda notes](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/conda_package_manager_overview.md), [conda cheatsheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf), [EDA with pandas jupyter notebook](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/EDA_example.ipynb) | |
+| 3 | Plotting with seaborn, more pandas EDA |  | [HW2](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW2_EDA_envs.md) (due February 3<sup>rd</sup> 5pm) |
+| 3 | Environmental databases and toolboxes, mapping with cartopy|  [List of databases](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_resources.md), ocean toolboxes  |  |
 | 4 | NO CLASSES | -- | -- |
 | 5 | Machine learning overview | | |
 | 5 | Intro to [scikit-learn](https://scikit-learn.org/stable/) and [TensorFlow](https://www.tensorflow.org/) | |  |
@@ -41,7 +41,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 2. Develop a working knowledge of existing ocean and earth science databases and how to efficiently access data from them, including via APIs.
 3. Students will develop their own data analysis toolbox using, but not limited to, Python and shell scripts.  
 4. Understand and use version control (e.g. git), environments (e.g. conda) and code repositories (e.g. GitHub) to manage and share code.
-5. Understand the underlying principles of machine learning techniques for regressison and classification, including supervised and unsupervised learning and apply them to a targeted research question.
+5. Understand the underlying principles of machine learning techniques for regression and classification, including supervised and unsupervised learning and apply them to a targeted research question.
 6. Understand the process of model evaluation and optimization and commonly used metrics for reporting model performance. 
 
 ## Capstone Project
