@@ -4,7 +4,7 @@ Estimating nitrate concentrations from BGC Argo float data using a model based o
 
 This assignment builds on the in-class work we did this week building a model to predict nitrate concentrations in the North West Pacific from the Japan Meteorological Association repeat hydrography data (‘JMA_nitrate.csv’). 
 
-In groups, you built a model using either Lasso or ElasticNet, and have done a sensitivity assessment to find the best set of model parameters to predict your test data.
+In groups, you built a model using either Lasso or Ridge, and have done a sensitivity assessment to find the best set of model parameters to predict your test data.
 
 Continue to work on this project in your groups, and upload one jupyter notebook for each group’s results.
 
