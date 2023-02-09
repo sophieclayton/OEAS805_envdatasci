@@ -27,7 +27,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 3 | Environmental databases and toolboxes, mapping with cartopy|  [List of databases](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notes/data_resources.md), ocean toolboxes  |  |
 | 4 | NO CLASSES | -- | -- |
 | 5 | Machine learning overview | | |
-| 5 | Intro to [scikit-learn](https://scikit-learn.org/stable/) and [TensorFlow](https://www.tensorflow.org/) | |  |
+| 5 | Intro to [scikit-learn](https://scikit-learn.org/stable/) and Supervised Regression | | [HW3](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW3_regression.md) (due February 17<sup>th</sup> 5pm) |
 
 <!---
 | 6 | Supervised learning - regression | |  |
