@@ -1,4 +1,4 @@
-# OEAS895 Homework 3: Building and applying a regression model - due 5pm February 17<sup>th</sup>
+# OEAS895 Homework 3: Building and applying a regression model - due 5pm February 22<sup>nd</sup>
 
 Estimating nitrate concentrations from BGC Argo float data using a model based on the JMA repeat hydrography data.
 
@@ -30,4 +30,4 @@ For more information on markdown formatting:
 [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)  
 [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
 
-Your homework is due by **5pm on February 17<sup>th</sup>** and will incur a 10% per day late penalty if submitted after the deadline. I will not accept any work submitted after midnight on February 19<sup>th</sup>.
+Your homework is due by **5pm on February 22<sup>nd</sup>** and will incur a 10% per day late penalty if submitted after the deadline. I will not accept any work submitted after midnight on February 24<sup>th</sup>.
