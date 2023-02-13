@@ -1,6 +1,6 @@
 # OEAS895 Homework 4: Building and applying a classification model - due 5pm March 8<sup>th</sup>
 
-Using error metrics to explore the parameter space of your neural network classifier.
+Use error metrics to explore the parameter space of your neural network classifier.
 
 For this exercise you will use the ‘wine’ dataset available as a sci-kit learn dataset, and the multi-layer perceptron classifier (MLPClassifier). 
 
@@ -8,7 +8,7 @@ For this exercise you will use the ‘wine’ dataset available as a sci-kit lea
 Following the method that we have discussed in class, build an MLPClassifier model to predict the target variable from the feature data. 
 
 ## Part 2 (30 points): Explore hyperparameter space
-You will explore the parameter space of the <mark>XXXX</mark> model and determine the combination(s) of number of layers and number of neurons that yield the best model accuracy score. 
+You will explore the parameter space of the MLPClassifier model and determine the combination(s) of number of layers and number of neurons that yield the best model accuracy score. 
 
 * Produce a figure that illustrates the results of your analysis. Write a short paragraph explaining your results. If more than one combination of layers/neurons results in a high accuracy score (>0.9), discuss which combination of layers/neurons you would use and why.
 
