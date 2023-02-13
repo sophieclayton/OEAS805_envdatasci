@@ -2,13 +2,13 @@
 
 Estimating nitrate concentrations from BGC Argo float data using a model based on the JMA repeat hydrography data.
 
-This assignment builds on the in-class work we did this week building a model to predict nitrate concentrations in the North West Pacific from the Japan Meteorological Association repeat hydrography data (‘JMA_nitrate.csv’). 
+This assignment builds on the in-class work we did this week building a model to predict nitrate concentrations in the North West Pacific from the Japan Meteorological Association repeat hydrography data `/data/JMA_nitrate.csv`. 
 
 In groups, you built a model using either Lasso or Ridge, and have done a sensitivity assessment to find the best set of model parameters to predict your test data.
 
 Continue to work on this project in your groups, and upload one jupyter notebook for each group’s results.
 
-For this assignment, use your model to estimate nitrate from the BGC Argo profiles found in the ‘/data/kuro_BGCArgo_noNO3.csv’ file. I have also provided you with the full BGC Argo dataset in ‘/data/kuro_BGCArgo_NO3.csv’ so that you can assess your model performance
+For this assignment, use your model to estimate nitrate from the BGC Argo profiles found in the `/data/kuro_BGCArgo_noNO3.csv` file. I have also provided you with the full BGC Argo dataset in `/data/kuro_BGCArgo_NO3.csv` so that you can assess your model performance
 
 ## Part 1 (20 points): EDA
 Before you apply your model, assess the level of overlap between the range of environmental conditions represented in the JMA and BGC Argo data sets. 
