@@ -2,6 +2,7 @@
 
 <mark>Please start working on this sooner rather than later, and come talk to me during office hours to discuss the scope of your project and what data you plan to use.</mark>
 
+**(50 points)**
 Write up a 1-2 page project plan that will include:
 
 * a short paragraph explaining the background to your problem.
