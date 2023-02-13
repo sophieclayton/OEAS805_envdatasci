@@ -33,7 +33,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 7 | Supervised learning - classification, evaluation and error metrics | |  |
 | 7 | Supervised learning - classification | | [HW4](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW4_classification.md) (due March 8<sup>th</sup> 5pm) |
 | 8 | Unsupervised learning | | |
-| 8 | Capstone Project Development | | Capstone Proposal (due March 17<sup>th</sup> 5pm) |
+| 8 | Capstone Project Development | | [HW5 Capstone Proposal](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW5_capstone_proposal.md) (due March 17<sup>th</sup> 5pm) |
 | 9 | SPRING BREAK | NO CLASSES | |
 <!---
 --->
