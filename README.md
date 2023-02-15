@@ -29,9 +29,9 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 5 | Machine learning overview | | |
 | 5 | Intro to [scikit-learn](https://scikit-learn.org/stable/) and Supervised Regression | [Nitrate linear regression example](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/nitrate_linear_regress_example.ipynb) | [HW3](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW3_regression.md) (due February 22<sup>nd</sup> 5pm) |
 | 6 | Scaling, Neural Network Regressors, Nearest Neighbor Regressors, in class practice| [Examples of different regression estimators](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/regression_examples.ipynb)|  |
-| 6 | Supervised regression - in class practice | |  |
-| 7 | Supervised learning - classification, evaluation and error metrics | |  |
-| 7 | Supervised learning - classification | | [HW4](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW4_classification.md) (due March 8<sup>th</sup> 5pm) |
+| 6 | Supervised learning - classification, evaluation and error metrics | |  |
+| 7 | Supervised learning - in class practice | | [HW4](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW4_classification.md) (due March 8<sup>th</sup> 5pm) |
+| 7 | Unsupervised learning | | |
 | 8 | Unsupervised learning | | |
 | 8 | Capstone Project Development | | [HW5 Capstone Proposal](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW5_capstone_proposal.md) (due March 17<sup>th</sup> 5pm) |
 | 9 | SPRING BREAK | NO CLASSES | |
