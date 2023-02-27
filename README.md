@@ -31,9 +31,9 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 6 | Scaling, Neural Network Regressors, Nearest Neighbor Regressors, in class practice| [Examples of different regression estimators](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/regression_examples.ipynb)|  |
 | 6 | Supervised learning - classification, evaluation and error metrics | Notes TBA |  |
 | 7 | In class practice | | [HW4](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW4_classification.md) (due March 8<sup>th</sup> 5pm) |
-| 7 | Supervised learning - in class practice | iris dataset examples: [KNN classifier](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/iris_KNN_example.ipynb), [MLP Classifier and feature scaling](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/iris_neuralnet_example.ipynb) | |
-| 8 | Unsupervised learning | | |
-| 8 | Capstone Project Development | | [HW5 Capstone Proposal](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW5_capstone_proposal.md) (due March 17<sup>th</sup> 5pm) |
+| 7 | Supervised learning - KNN and MLPClassifier | iris dataset examples: [KNN classifier](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/iris_KNN_example.ipynb), [MLPClassifier and feature scaling](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/iris_neuralnet_example.ipynb) | |
+| 8 | Unsupervised learning - KMeans | [KMeans example](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/KMeans_unsupervised_example.ipynb) using the seeds dataset| |
+| 8 | Unsupervised learning and Capstone Project Development | | [HW5 Capstone Proposal](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW5_capstone_proposal.md) (due March 17<sup>th</sup> 5pm) |
 | 9 | NO CLASSES | SPRING BREAK | -- |
 <!---
 --->
@@ -47,7 +47,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 6. Understand the process of model evaluation and optimization and commonly used metrics for reporting model performance. 
 
 ## Capstone Project
-The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focus on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor prior by spring break. 
+The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focus on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor prior to spring break. 
 
 More detailed information on the capstone project will be posted here.
 
