@@ -6,8 +6,11 @@
 Write up a 1-2 page project plan that will include:
 
 * a short paragraph explaining the background to your problem.
-* a description of what your target variable is, and an explanation of why you need to build a model to estimate it.
-* a list of the other variables you will use to estimate your target.
+* description your data science approach to the problem:
+  * supervised learning: describe what your target variable is, and an explanation of why you need to build a model to estimate it.
+  * unsupervised learning: describe what patterns you might expect to find in your data, and an explanation of why you need to build a model to identify them.
+  * data wrangling pipeline: describe the analytical bottleneck that you aim to solve and how it will aid you and others.
+* a list of the data/variables you will use in your project.
 * a description of the datasets that you will use. 
 * some thoughts on how this project will feed into, and hopefully benefit, your thesis research. 
 * relevant references.
