@@ -44,7 +44,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 13 | Thursday - Project work | | |
 | 14 | TBD | |  |
 | 14 | Thursday - Project work | | |
-| 15 | Project Presentations - Group 1 | | |
+| 15 | Project Presentations - Group 1 | | Capstone Presentation Instructions|
 | 15 | Project Presentations - Group 2 | | |
 <!---
 --->
@@ -60,5 +60,5 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 ## Capstone Project
 The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focus on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor the week after spring break. 
 
-More detailed information on the capstone project will be posted here.
+Detailed information on the capstone project is posted [here](/homework/capstone_instruction.md).
 
