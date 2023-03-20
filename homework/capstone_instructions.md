@@ -29,7 +29,7 @@ Create a Jupyter notebook to perform exploratory data analysis for all of the di
 (15% total course grade, **Tuesday 18th and Thursday 20th April**)  
 Detailed instructions will be posted here.
 
-### 3 Peer Review of Project Repositories
+### 3. Peer Review of Project Repositories
 Required but ungraded (if not completed, your project repository will not receive a grade). Due **Friday 14th April**.
 
 Each student will be assigned a peer's GitHub repository to review prior to the Project Repository submission deadline. This is intended to provide useful feedback to improve the accessibility of the code and documentation in your Project Repository by enlisting each other as "beta testers". Review assignments will not be reciprocal, i.e. you will not review the repository of the person who is reviewing your repository.
