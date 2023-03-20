@@ -36,7 +36,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 8 | Unsupervised learning and Capstone Project Development | | [HW5 Capstone Proposal](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW5_capstone_proposal.md) (due March 17<sup>th</sup> 5pm) |
 | 9 | NO CLASSES | SPRING BREAK | -- |
 | 10 | Dimensionality Reduction, Feature Extraction with PCA | [PCA feature extraction example](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/wine_PCA_example.ipynb) using the wine dataset| |
-| 11 | Dimensionality Reduction, Feature Selection | |  |
+| 11 | Feature Selection methods | |  |
 | 11 | Thursday: Project work | | |
 | 12 | Cross-validation for training models on small datasets| |  |
 | 12 | Thursday - Project work | | |
