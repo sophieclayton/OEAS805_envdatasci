@@ -35,6 +35,17 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 | 8 | Unsupervised learning - KMeans | [KMeans example](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/KMeans_unsupervised_example.ipynb) using the seeds dataset| |
 | 8 | Unsupervised learning and Capstone Project Development | | [HW5 Capstone Proposal](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/HW5_capstone_proposal.md) (due March 17<sup>th</sup> 5pm) |
 | 9 | NO CLASSES | SPRING BREAK | -- |
+| 10 | Dimensionality Reduction, Feature Extraction with PCA | [PCA feature extraction example](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/notebooks/wine_PCA_example.ipynb) using the wine dataset| |
+| 11 | Dimensionality Reduction, Feature Selection | |  |
+| 11 | Thursday: Project work | | |
+| 12 | Cross-validation for training models on small datasets| |  |
+| 12 | Thursday - Project work | | |
+| 13 | Paper discussion | |  |
+| 13 | Thursday - Project work | | |
+| 14 | TBD | |  |
+| 14 | Thursday - Project work | | |
+| 15 | Project Presentations - Group 1 | | |
+| 15 | Project Presentations - Group 2 | | |
 <!---
 --->
 
@@ -47,7 +58,7 @@ A pdf of the schedule can be found [here](https://github.com/sophieclayton/OEAS8
 6. Understand the process of model evaluation and optimization and commonly used metrics for reporting model performance. 
 
 ## Capstone Project
-The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focus on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor prior to spring break. 
+The goal of the final capstone project is to assess students ability to combine and apply the skills learned in class in the context of a real-world research problem. The class will mostly focus on tools for data analysis, visualization and developing and evaluating machine learning models, so this will be the focus of the capstone project. Students must have the dataset(s) and general scope of their capstone project approved by the instructor the week after spring break. 
 
 More detailed information on the capstone project will be posted here.
 
