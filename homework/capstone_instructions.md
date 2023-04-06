@@ -36,6 +36,8 @@ Each student will be assigned a peer's GitHub repository to review prior to the 
 
 For this assignment, you will review the requirements listed below for the Project Repository and provide an informal review for your reviewee (and me) based on how well their repository meets the requirements listed below. This can be a simple Slack message, but you should thoroughly go through the repo.
 
+[Here are your reviewer assignments](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/peer_review_assignments.md) for this part of the project.
+
 ### 4. Project Repository on GitHub
 (15% total course grade, due **Friday 21st April**)
 
@@ -64,6 +66,7 @@ The project report should be submitted as a pdf document using the following for
 * 11-12 pt font
 * Single spaced lines
 * Include line and page numbers
-* Figures and tables may be in line with the text and must numbered and include a title.
+* Figures and tables may be in line with the text and must be numbered and include a title.
+* **6 page limit** excluding references
 
 
