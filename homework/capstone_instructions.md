@@ -27,7 +27,17 @@ Create a Jupyter notebook to perform exploratory data analysis for all of the di
 
 ### 2. Class Presentations
 (15% total course grade, **Tuesday 18th and Thursday 20th April**)  
-Detailed instructions will be posted here.
+
+Each student will have a total of 15 minutes to present their project and answer questions. Your talk should be 10-12 minutes and cover the following:
+* Background on the problem you are trying to solve
+* Data that you have used
+* Computational tools that you have used
+* Results/Implementation 
+* What would you do differently next time or where will you take the project next?
+
+As a rule of thumb, allow no more than 1 slide per minute of your talk. I **highly recommend** that you practice your talk at least once prior to the in-class presentations. It will allow you to check that you are within the time range, and that your material flows well and make sense. It is usually pretty obvious when a speaker has not practiced their talk.
+
+In terms of presentation, I will expect to see axis labels and titles on any plots that you present and you must reference any external materials (e.g. figures form papers) that you use in your talk. There is no need to provide a reference slide. Avoid crowding your slides with too much text, it is very hard for your audience to read and listen at the same time.
 
 ### 3. Peer Review of Project Repositories
 Required but ungraded (if not completed, your project repository will not receive a grade). Due **Friday 14th April**.
