@@ -27,6 +27,7 @@ Create a Jupyter notebook to perform exploratory data analysis for all of the di
 
 ### 2. Class Presentations
 (15% total course grade, **Tuesday 18th and Thursday 20th April**)  
+Talk schedule can be found [here](https://github.com/sophieclayton/OEAS805_envdatasci/blob/master/homework/talk_schedule.md)
 
 Each student will have a total of 15 minutes to present their project and answer questions. Your talk should be 10-12 minutes and cover the following:
 * Background on the problem you are trying to solve
