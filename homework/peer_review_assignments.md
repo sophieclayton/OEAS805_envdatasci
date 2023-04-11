@@ -13,7 +13,7 @@ Yifan     ->    Franky
 Franky    ->    Kristina  
 Kristina  ->    Nicole  
 Nicole    ->    Rose  
-Roce      ->    Steele  
+Rose      ->    Steele  
 Steele    ->    Emma  
 Emma      ->    Brian  
 Brian     ->    Yifan  
